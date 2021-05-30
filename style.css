@@ -177,9 +177,12 @@ body {
     font-family: sans-serif;
     background-color: rgb(23, 71, 85);
 }
+
 .infoback{
     background-image: linear-gradient(lightblue, wheat);
+    border: 3px solid white;
 }
+
 a{
     text-decoration: none;
     color: black;
