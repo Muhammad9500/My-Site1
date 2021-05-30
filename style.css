@@ -4,10 +4,6 @@ body {
     background: url("https://pilothub.ru/datas/folio/6553-nochnoj-gorod.jpg");
 
 }
-.infoback{
-    background-image: linear-gradient(lightblue, wheat);
-}
-
 a{
     text-decoration: none;
     margin-left: 10px;
@@ -180,6 +176,9 @@ button{
 body {
     font-family: sans-serif;
     background-color: rgb(23, 71, 85);
+}
+.infoback{
+    background-image: linear-gradient(lightblue, wheat);
 }
 a{
     text-decoration: none;
