@@ -178,7 +178,7 @@ body {
     background-color: rgb(23, 71, 85);
 }
 
-.infoback{
+main {
     background-image: linear-gradient(lightblue, wheat);
     border: 3px solid white;
 }
